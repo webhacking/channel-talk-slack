@@ -1,0 +1,1 @@
+{"version":3,"file":"create-message-chunk.js","sourceRoot":"","sources":["../../../src/utils/create-message-chunk.ts"],"names":[],"mappings":";;;;;;;;;AAAA,yCAA6B;AAC7B,qCAAyB;AAGzB,IAAM,kBAAkB,GAAG,UAAC,OAAe,EAAE,KAAY,IAAK,OAAA,EAAE,CAAC,aAAa,CAAC,IAAI,CAAC,IAAI,CAAC,SAAS,EAAE,kBAAgB,OAAS,CAAC,EAAE,IAAI,CAAC,SAAS,CAAC,KAAK,CAAC,CAAC,EAAxF,CAAwF,CAAC;AACvJ,kBAAe,kBAAkB,CAAC"}
