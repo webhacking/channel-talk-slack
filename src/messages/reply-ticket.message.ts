@@ -14,7 +14,6 @@ import sendMessageAction$ from '../actions/send-message.action';
 class ReplyTicketMessage extends Message {
   public send = (chunk: Chunk, replyPayload: ChannelTalkResponse | SlackOuthookRes): Observable<WebAPICallResult | any> => {
     const client = new WebClient(this.slackBotToken);
-    console.log('this.receiveChannelName', this.receiveChannelName);
     const instanceOfSlack = (payload: ChannelTalkResponse | SlackOuthookRes): payload is SlackOuthookRes => 'text' in payload;
     return instanceOfSlack(replyPayload) ? sendMessageAction$(chunk.channel.entity.id, {
       message: replyPayload.text
