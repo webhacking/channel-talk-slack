@@ -3,6 +3,8 @@
 여러 채널에 참고해야할 내용들이 분산되는 것만큼 업무를 방해하는 요소가 없다고 생각합니다.
 슬랙이라는 하나의 채널에서 모든 내용들을 정제하기위해 간단하게 작성한 코드 입니다
 
+![Example](https://github.com/webhacking/channel-talk-slack/blob/master/example.gif?raw=true)
+
 ## 설치
 
 ```
