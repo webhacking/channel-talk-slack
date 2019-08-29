@@ -5,10 +5,11 @@
 
 ![Example](https://github.com/webhacking/channel-talk-slack/blob/master/example.gif?raw=true)
 
-## 설치
+## 소스코드 설치 및 의존성 설치
 
 ```
-npm i channel-talk-slack
+git clone git@github.com:webhacking/channel-talk-slack.git
+npm i 
 ```
 
 ## 설정
