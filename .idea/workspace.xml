@@ -28,7 +28,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="reply-ticket.message.ts" pinned="false" current-in-tab="true">
+          <file leaf-file-name="reply-ticket.message.ts" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/messages/reply-ticket.message.ts">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="520">
@@ -40,11 +40,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="449">
-                  <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+                <state relative-caret-position="26">
+                  <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
                 </state>
               </provider>
             </entry>
@@ -79,7 +79,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="horizontal" split-proportion="0.3381725">
+        <splitter split-orientation="horizontal" split-proportion="0.16908625">
           <split-first>
             <leaf>
               <file leaf-file-name="packets.ts" pinned="false" current-in-tab="true">
@@ -164,35 +164,14 @@
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+              <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/README.md">
                   <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                     <state split_layout="SPLIT">
-                      <first_editor />
+                      <first_editor relative-caret-position="52">
+                        <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+                      </first_editor>
                       <second_editor />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name=".env.local" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/.env.local">
-                  <provider selected="true" editor-type-id="text-editor" />
-                </entry>
-              </file>
-              <file leaf-file-name=".env" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/.env">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="182">
-                      <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/.gitignore">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="52">
-                      <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
                     </state>
                   </provider>
                 </entry>
@@ -301,12 +280,13 @@
         <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/renovate.json" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/npmignore" />
         <option value="$PROJECT_DIR$/src/messages/reply-ticket.message.ts" />
         <option value="$PROJECT_DIR$/.env.local" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -355,7 +335,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="reply&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/src/messages/reply-ticket.message.ts&#10;main&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/main.ts&#10;main.ts&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/main.ts&#10;mai&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/main.ts&#10;main.&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/main.ts" />
+    <property name="SearchEverywhereHistoryKey" value="package.json&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/package.json&#10;package.jso&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/package.json&#10;reply&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/src/messages/reply-ticket.message.ts&#10;main&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/main.ts&#10;main.ts&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/main.ts&#10;mai&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/main.ts&#10;main.&#9;FILE&#9;file:///Users/yeongjunwoo/WebstormProjects/slack-channel-talk/main.ts" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -400,12 +380,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566784570106</updated>
-      <workItem from="1566784571425" duration="72165000" />
+      <workItem from="1566784571425" duration="72793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72165000" />
+    <option name="totallyTimeSpent" value="72793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1440" y="0" width="1440" height="2560" extended-state="0" />
@@ -419,7 +399,7 @@
       <window_info anchor="bottom" id="Terminal" side_tool="true" visible="true" weight="0.34901488" />
       <window_info anchor="bottom" id="RNConsole" />
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16117479" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1239255" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="LuaJ" />
       <window_info anchor="right" id="Nativescript Palette" />
@@ -733,13 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/@slack/web-api/dist/methods.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -798,6 +771,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/messages/reply-ticket.message.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -808,28 +788,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.env.local">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
