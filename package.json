@@ -24,7 +24,7 @@
     "dotenv": "^8.1.0",
     "http": "0.0.0",
     "qs": "^6.8.0",
-    "rxjs": "^6.5.2",
+    "rxjs": "^7.0.0",
     "slack-notify": "^0.1.7"
   },
   "devDependencies": {
