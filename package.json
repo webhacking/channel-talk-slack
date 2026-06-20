@@ -28,7 +28,7 @@
     "slack-notify": "^0.1.7"
   },
   "devDependencies": {
-    "@types/axios": "0.14.0",
+    "@types/axios": "0.14.4",
     "@types/dotenv": "6.1.1",
     "@types/qs": "6.5.3",
     "jest": "24.9.0",
